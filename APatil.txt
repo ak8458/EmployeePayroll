@@ -1,0 +1,7 @@
+************ Payroll Report *************************
+Employee Name: Akshay Patil
+Hours: 080
+Wages: $90.00
+Gross Pay: $9000.00
+Overtime Pay: $5400.00 (included in gross pay)
+*****************************************************

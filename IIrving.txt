@@ -1,0 +1,7 @@
+************ Payroll Report *************************
+Employee Name: Isadora Irving
+Hours: 027
+Wages: $9.60
+Gross Pay: $259.20
+Overtime Pay: $0.00 (included in gross pay)
+*****************************************************
